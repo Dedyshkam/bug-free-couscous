@@ -1,1 +1,1 @@
-# bug-free-couscous
+print("Hello world!")
